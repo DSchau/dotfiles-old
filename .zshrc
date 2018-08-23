@@ -115,3 +115,7 @@ eval "$(hub alias -s)"
 # tabtab source for sls package
 # uninstall by removing these lines or running `tabtab uninstall sls`
 [[ -f /Users/dschau/.config/yarn/global/node_modules/serverless/node_modules/tabtab/.completions/sls.zsh ]] && . /Users/dschau/.config/yarn/global/node_modules/serverless/node_modules/tabtab/.completions/sls.zsh
+
+# Disable autocorrect
+alias bat='nocorrect bat'
+
