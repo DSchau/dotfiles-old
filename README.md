@@ -1,2 +1,3 @@
-# blog-post
-A CLI/utility to make creating blog posts (in Markdown) easy as pie
+# dot-files
+
+Basic dot files to make environment set up easy
