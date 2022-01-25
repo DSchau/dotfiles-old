@@ -10,6 +10,8 @@ Collection of config/tweak files to make first-time setup as easy as possible
 - [ ] 1Password
 - [ ] VSCode
 - [ ] Zoom
+- [ ] BetterTouchTool
+- [ ] Raycast (maybe Launchbar?)
 
 ## Essential Configurations
 
