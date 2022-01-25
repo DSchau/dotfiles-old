@@ -9,6 +9,7 @@ Collection of config/tweak files to make first-time setup as easy as possible
 - [ ] Slack
 - [ ] 1Password
 - [ ] VSCode
+- [ ] Zoom
 
 ## Essential Configurations
 
